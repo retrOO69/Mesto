@@ -1,11 +1,15 @@
 body{
     background-color: black;
-    max-width: 1280px;
-    max-height: 1220px;
+    
 
 }
 .header{
     width: 880px;
     height: 74px;
-    
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+    border-bottom-color: rgba(84, 84, 84, 1);
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
