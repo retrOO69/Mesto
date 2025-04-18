@@ -1,7 +1,10 @@
 body{
     background-color: black;
-    
-
+}
+main{
+    max-width: 880px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .header{
     width: 880px;
@@ -10,6 +13,8 @@ body{
     border-bottom-width: 0.5px;
     border-bottom-color: rgba(84, 84, 84, 1);
     margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
 }
+.avatar{
+    border-radius: 50%;
+}
+
