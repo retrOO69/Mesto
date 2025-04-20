@@ -14,7 +14,22 @@ main{
     border-bottom-color: rgba(84, 84, 84, 1);
     margin-top: 20px;
 }
-.avatar{
+.profile_pic{
     border-radius: 50%;
+    width: 169px;
+    height: 169px;
 }
-
+h1,h2{
+    color: aliceblue;
+}   
+.profile{
+    display: flex;
+}
+.profile_card{
+    display: flex;
+    width: 400px;
+    align-items: center;
+}
+.profile_name{
+    margin-left: 20px;
+}
